@@ -1,8 +1,15 @@
-# Dubi906w
+# Dubi906w ![HK](https://github.com/yammadev/flag-icons/blob/master/png/HK.png)
 
-**Dubi906wは中国本土出身の16歳の高校生です。現在、中国の普通高校に通っています。私は現在、InkCanvasForClassなどのプロジェクトを開発中で、オープンソースのホワイトボード書き込みソフトや画面描画ソフトを紹介するリスト「Awesome-Iwb」を管理しています。**
+**Dubi906wは中国（実際には中国香港特別行政区）出身の16歳の高校生です。現在、中国本土の普通高校に通っています。私は現在、InkCanvasForClassなどのプロジェクトを開発しており、オープンソースのホワイトボード書き込みソフトや画面描画ソフトを紹介するリスト「Awesome-Iwb」を管理しています。**
 
 私は現在、主に.NET技術を使って自分の好きなものを開発しています。また、Windows向けのデスクトップアプリを作成するためにWPFを学習中です。授業があるため、月曜日から土曜日までは連絡が取りづらいかもしれません。
+
+---
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kriastans&theme=github-compact)
+
+[![InkCanvasForClass](https://github-readme-stats.vercel.app/api/pin/?username=kriastans&repo=InkCanvasForClass)](https://github.com/InkCanvasForClass/InkCanvasForClass)
+[![Awesome-Iwb](https://github-readme-stats.vercel.app/api/pin/?username=kriastans&repo=Awesome-Iwb)](https://github.com/kriastans/Awesome-Iwb)
 
 ## 🛠 技術スタック
 
